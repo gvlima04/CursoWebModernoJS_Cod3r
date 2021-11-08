@@ -1,0 +1,18 @@
+https://blog.cod3r.com.br/terminal-no-windows/
+
+Abrir o terminal, mas dessa vez escolhendo a pasta onde ele irá apontar. Para isso, abra a pasta escolhida para iniciar o terminal no Windows, segure o SHIFT e clique com o botão DIREITO do mouse em alguma parte em branco da pasta.
+
+- dir (ls): serve para mostrar as pastas e arquivos
+- cd: é como um duplo clique no mouse, ou seja, ele abre a pasta, além de servir para voltar para trás
+	- "cd + nome da pasta" para avançar para dentro de uma pasta.
+	- "cd .." para retornar uma pasta atrás da atual.
+- cls (clear): Ele limpa todos os comandos listados.
+- mkdir: criar uma nova pasta a partir do terminal
+- rmdir: apaga todo o diretório.
+- del + nome da pasta/arquivo: apagar arquivos dentro de uma pasta
+
+-‘help’, ele lista todos os comandos que você pode utilizar
+
+
+
+https://blog.cod3r.com.br/terminal-no-macos-e-linux/
